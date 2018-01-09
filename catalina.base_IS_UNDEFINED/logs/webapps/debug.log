@@ -1,0 +1,3 @@
+2018-01-07 21:56:28.269 [main] DEBUG com.kmn.bryuki.o2o.dao.AreaDao.queryArea - ==>  Preparing: SELECT area_id, area_name, priority, create_time, last_edit_time FROM tb_area ORDER BY priority DESC 
+2018-01-07 21:56:28.381 [main] DEBUG com.kmn.bryuki.o2o.dao.AreaDao.queryArea - ==> Parameters: 
+2018-01-07 21:56:28.441 [main] DEBUG com.kmn.bryuki.o2o.dao.AreaDao.queryArea - <==      Total: 2
